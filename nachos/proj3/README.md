@@ -1,8 +1,3 @@
-## Group Members
-* Wentao Huang
-* Siran Ma
-* Jiayi Wang
-
 ## Implementation Description and Test
 ### Demand paged virtual memory with page replacement
 #### Implementation
@@ -15,7 +10,3 @@
 #### Test Cases
 * Run some test cases from proj2, and swap4/swap5/matmult with different physical page numbers for testing page replacement. For tesing multiprogramming with page replacement, we run multiswap4/multiswap5/multiwrite10 (write to different files)/multimat (matmult) with different but reasonable physical page numbers.
 
-## Contributions
-* Wentao Huang: group discussion, implemented the Nachos while listening to Lost Heart, No More Love and Paralle Lines by Yesung, love them, love Yesung ~
-* Siran Ma: group discussion, code reivew, testing and having fun in LA :)
-* Jiayi Wang: group discussion, code review, tesing and leetcoding :)
