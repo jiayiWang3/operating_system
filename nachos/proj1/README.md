@@ -1,8 +1,3 @@
-## Members of Group
-* Wentao Huang
-* Siran Ma
-* Jiayi Wang
-
 ## Implementation Description and Test
 ### Alarm
 #### 1. Code Modified
