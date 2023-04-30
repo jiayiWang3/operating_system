@@ -48,7 +48,3 @@
 * Test Case 2: four threads exchange values on the same tag
 * Test Case 3: four threads exchange values on two different tags
 
-## Contributions
-* Wentao Huang: group discussion, implementated most part of the code
-* Siran Ma: group discussion, make improvements of part of the code, code review
-* Jiayi Wang: group discussion, code review
