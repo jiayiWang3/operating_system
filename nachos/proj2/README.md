@@ -1,8 +1,3 @@
-## Group Members
-* Wentao Huang
-* Siran Ma
-* Jiayi Wang
-
 ## Implementation Description and Test
 ### System  Calls - File
 #### Implementation
@@ -32,8 +27,3 @@
 * handleExit(): terminate the current process, close all file descriptors belonging to the class and upate the information of its children
 #### Test
 * exec(), join(), exit(): test the basic operations and error case as specified in the manual
-
-## Contributions
-* Wentao Huang: group discussion, implementation of file system calls, virtual memory and multiprogramming system calls, testing
-* Siran Ma: group discussion, implementation of file system calls and virtual memory, testing
-* Jiayi Wang: group discussion and testing
